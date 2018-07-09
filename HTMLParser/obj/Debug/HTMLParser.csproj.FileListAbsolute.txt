@@ -1,0 +1,13 @@
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe.config
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\bin\Debug\HTMLParser.exe
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\bin\Debug\HTMLParser.pdb
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\bin\Debug\AngleSharp.dll
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\bin\Debug\AngleSharp.xml
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csprojAssemblyReference.cache
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.FormMain.resources
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Properties.Resources.resources
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.GenerateResource.cache
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.CoreCompileInputs.cache
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.CopyComplete
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.exe
+C:\Users\zibum\Максим\ДомашниеЗадания\Программирование\HTMLParser\HTMLParser\obj\Debug\HTMLParser.pdb
